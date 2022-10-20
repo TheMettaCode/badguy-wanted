@@ -1,1 +1,8 @@
 /build/
+/asset_source/
+/assets/
+key.jks
+.gradle
+/.dart_tool/
+/ios/
+/lib/services/admob/
