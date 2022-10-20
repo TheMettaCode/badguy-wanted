@@ -1,0 +1,7 @@
+location permission info
+
+APP PURPOSE:
+To view and report persons wanted by the FBI. App uses free API service provided by https://www.fbi.gov/wanted/api
+
+LOCATION ACCESS:
+Location access is used by this app to determine user location and inform the user of FBI field offices in their area as well as indicate last known location of of wanted persons in the vicinity.
